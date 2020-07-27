@@ -8,7 +8,7 @@ Online/Offline Budget Trackers
 
 # Demo
 
-![alt text](demo.gif)
+![alt text](BudgetTracker.gif)
 
 
 # Technologies used
