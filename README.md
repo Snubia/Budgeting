@@ -30,7 +30,7 @@ Online/Offline Budget Trackers
 
 # Links
 
-[deployed website]()
+[deployed website](https://mighty-lake-47205.herokuapp.com/)
 
 
 [Github repository](https://github.com/Snubia/Budgeting.git)
@@ -38,7 +38,6 @@ Online/Offline Budget Trackers
 
 # For feedback, contributions or questions
 
-**Email:** nunubabila@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/sandrine-nubia-975aa2172/)
 
